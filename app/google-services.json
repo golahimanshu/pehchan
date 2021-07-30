@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621079977354",
+    "project_id": "pehchan1-8c933",
+    "storage_bucket": "pehchan1-8c933.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621079977354:android:2c48ca7c9dd2ae710a3c73",
+        "android_client_info": {
+          "package_name": "com.himanshu_parth.pehchan1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621079977354-q06hqn28jbags77c314vu1t3c0kft9lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4QHSVVjZgm58lBH1XLQTaX_1RsZ6ONQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621079977354-q06hqn28jbags77c314vu1t3c0kft9lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
